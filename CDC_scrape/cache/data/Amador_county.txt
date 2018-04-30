@@ -1,0 +1,194 @@
+"Notes"	"Cause of death"	"Cause of death Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Gender"	"Gender Code"	"Hispanic Origin"	"Hispanic Origin Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate
+	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	"55-64 years"	"55-64"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	48069	Unreliable
+	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	"65-74 years"	"65-74"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	16	35845	Unreliable
+	"Colon, unspecified - Malignant neoplasms"	"C18.9"	"55-64 years"	"55-64"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	48069	Unreliable
+	"Colon, unspecified - Malignant neoplasms"	"C18.9"	"65-74 years"	"65-74"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	14	35845	Unreliable
+	"Colon, unspecified - Malignant neoplasms"	"C18.9"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	20	21693	92.20
+	"Colon, unspecified - Malignant neoplasms"	"C18.9"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	23	19462	118.18
+	"Colon, unspecified - Malignant neoplasms"	"C18.9"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	16	6157	Unreliable
+	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	"65-74 years"	"65-74"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	14	36260	Unreliable
+	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	"65-74 years"	"65-74"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	18	35845	Unreliable
+	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	19462	Unreliable
+	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"45-54 years"	"45-54"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	14	42884	Unreliable
+	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"55-64 years"	"55-64"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	47	48717	96.48
+	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"55-64 years"	"55-64"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	47	48069	97.78
+	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"65-74 years"	"65-74"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	88	36260	242.69
+	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"65-74 years"	"65-74"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	91	35845	253.87
+	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	70	21693	322.68
+	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	75	19462	385.37
+	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	20	9683	206.55
+	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	29	6157	471.01
+	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"45-54 years"	"45-54"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	42884	Unreliable
+	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"55-64 years"	"55-64"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	18	48717	Unreliable
+	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"65-74 years"	"65-74"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	32	36260	88.25
+	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	31	21693	142.90
+	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	19	9683	Unreliable
+	"Malignant neoplasm of ovary"	"C56"	"65-74 years"	"65-74"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	36260	Unreliable
+	"Malignant neoplasm of ovary"	"C56"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	21693	Unreliable
+	"Malignant neoplasm of prostate"	"C61"	"65-74 years"	"65-74"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	35845	Unreliable
+	"Malignant neoplasm of prostate"	"C61"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	34	19462	174.70
+	"Malignant neoplasm of prostate"	"C61"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	34	6157	552.22
+	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	"65-74 years"	"65-74"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	35845	Unreliable
+	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	19462	Unreliable
+	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	16	19462	Unreliable
+	"Malignant neoplasm without specification of site"	"C80"	"55-64 years"	"55-64"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	48069	Unreliable
+	"Malignant neoplasm without specification of site"	"C80"	"65-74 years"	"65-74"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	36260	Unreliable
+	"Malignant neoplasm without specification of site"	"C80"	"65-74 years"	"65-74"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	14	35845	Unreliable
+	"Malignant neoplasm without specification of site"	"C80"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	19462	Unreliable
+	"Non-Hodgkin's lymphoma, unspecified type - Malignant neoplasms"	"C85.9"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	19462	Unreliable
+	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	19462	Unreliable
+	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	21693	Unreliable
+	"Unspecified dementia"	"F03"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	18	21693	Unreliable
+	"Unspecified dementia"	"F03"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	17	19462	Unreliable
+	"Unspecified dementia"	"F03"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	51	9683	526.70
+	"Unspecified dementia"	"F03"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	28	6157	454.77
+	"Parkinson's disease"	"G20"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	21693	Unreliable
+	"Parkinson's disease"	"G20"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	14	19462	Unreliable
+	"Parkinson's disease"	"G20"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	6157	Unreliable
+	"Alzheimer's disease, unspecified"	"G30.9"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	40	21693	184.39
+	"Alzheimer's disease, unspecified"	"G30.9"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	24	19462	123.32
+	"Alzheimer's disease, unspecified"	"G30.9"	"85+ years"	"85+"	"Female"	"F"	"Hispanic or Latino"	"2135-2"	"White"	"2106-3"	10	245	Unreliable
+	"Alzheimer's disease, unspecified"	"G30.9"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	133	9683	1373.54
+	"Alzheimer's disease, unspecified"	"G30.9"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	60	6157	974.50
+	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	24	9683	247.86
+	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	9683	Unreliable
+	"Acute myocardial infarction, unspecified"	"I21.9"	"45-54 years"	"45-54"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	47475	52.66
+	"Acute myocardial infarction, unspecified"	"I21.9"	"55-64 years"	"55-64"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	48717	Unreliable
+	"Acute myocardial infarction, unspecified"	"I21.9"	"55-64 years"	"55-64"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	51	48069	106.10
+	"Acute myocardial infarction, unspecified"	"I21.9"	"65-74 years"	"65-74"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	24	36260	66.19
+	"Acute myocardial infarction, unspecified"	"I21.9"	"65-74 years"	"65-74"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	75	35845	209.23
+	"Acute myocardial infarction, unspecified"	"I21.9"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	42	21693	193.61
+	"Acute myocardial infarction, unspecified"	"I21.9"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	78	19462	400.78
+	"Acute myocardial infarction, unspecified"	"I21.9"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	62	9683	640.30
+	"Acute myocardial infarction, unspecified"	"I21.9"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	58	6157	942.02
+	"Atherosclerotic heart disease"	"I25.1"	"45-54 years"	"45-54"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	22	47475	46.34
+	"Atherosclerotic heart disease"	"I25.1"	"55-64 years"	"55-64"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	48717	Unreliable
+	"Atherosclerotic heart disease"	"I25.1"	"55-64 years"	"55-64"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	35	48069	72.81
+	"Atherosclerotic heart disease"	"I25.1"	"65-74 years"	"65-74"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	19	36260	Unreliable
+	"Atherosclerotic heart disease"	"I25.1"	"65-74 years"	"65-74"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	65	35845	181.34
+	"Atherosclerotic heart disease"	"I25.1"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	88	21693	405.66
+	"Atherosclerotic heart disease"	"I25.1"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	133	19462	683.38
+	"Atherosclerotic heart disease"	"I25.1"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	168	9683	1735.00
+	"Atherosclerotic heart disease"	"I25.1"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	111	6157	1802.83
+	"Ischaemic cardiomyopathy"	"I25.5"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	6157	Unreliable
+	"Aortic (valve) stenosis"	"I35.0"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	18	9683	Unreliable
+	"Cardiomyopathy, unspecified"	"I42.9"	"55-64 years"	"55-64"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	48069	Unreliable
+	"Cardiomyopathy, unspecified"	"I42.9"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	19462	Unreliable
+	"Atrial fibrillation and flutter"	"I48"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	32	9683	330.48
+	"Congestive heart failure"	"I50.0"	"65-74 years"	"65-74"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	35845	Unreliable
+	"Congestive heart failure"	"I50.0"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	24	21693	110.63
+	"Congestive heart failure"	"I50.0"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	34	19462	174.70
+	"Congestive heart failure"	"I50.0"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	82	9683	846.84
+	"Congestive heart failure"	"I50.0"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	51	6157	828.33
+	"Intracerebral haemorrhage, unspecified"	"I61.9"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	21693	Unreliable
+	"Intracerebral haemorrhage, unspecified"	"I61.9"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	9683	Unreliable
+	"Cerebral infarction, unspecified"	"I63.9"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	9683	Unreliable
+	"Stroke, not specified as haemorrhage or infarction"	"I64"	"65-74 years"	"65-74"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	36260	Unreliable
+	"Stroke, not specified as haemorrhage or infarction"	"I64"	"65-74 years"	"65-74"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	14	35845	Unreliable
+	"Stroke, not specified as haemorrhage or infarction"	"I64"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	40	21693	184.39
+	"Stroke, not specified as haemorrhage or infarction"	"I64"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	28	19462	143.87
+	"Stroke, not specified as haemorrhage or infarction"	"I64"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	79	9683	815.86
+	"Stroke, not specified as haemorrhage or infarction"	"I64"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	40	6157	649.67
+	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	19462	Unreliable
+	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	14	9683	Unreliable
+	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	6157	Unreliable
+	"Generalized and unspecified atherosclerosis"	"I70.9"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	15	9683	Unreliable
+	"Pneumonia, unspecified"	"J18.9"	"55-64 years"	"55-64"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	48069	Unreliable
+	"Pneumonia, unspecified"	"J18.9"	"65-74 years"	"65-74"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	36260	Unreliable
+	"Pneumonia, unspecified"	"J18.9"	"65-74 years"	"65-74"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	35845	Unreliable
+	"Pneumonia, unspecified"	"J18.9"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	23	21693	106.02
+	"Pneumonia, unspecified"	"J18.9"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	31	19462	159.28
+	"Pneumonia, unspecified"	"J18.9"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	65	9683	671.28
+	"Pneumonia, unspecified"	"J18.9"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	35	6157	568.46
+	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	21693	Unreliable
+	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	12	19462	Unreliable
+	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	14	9683	Unreliable
+	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	6157	Unreliable
+	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"55-64 years"	"55-64"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	48717	Unreliable
+	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"65-74 years"	"65-74"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	45	36260	124.10
+	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"65-74 years"	"65-74"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	38	35845	106.01
+	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	61	21693	281.20
+	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"75-84 years"	"75-84"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	62	19462	318.57
+	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	51	9683	526.70
+	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	35	6157	568.46
+	"Pneumonitis due to food and vomit"	"J69.0"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	6157	Unreliable
+	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	"65-74 years"	"65-74"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	35845	Unreliable
+	"Alcoholic cirrhosis of liver"	"K70.3"	"45-54 years"	"45-54"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	47475	Unreliable
+	"Unspecified renal failure"	"N19"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	9683	Unreliable
+	"Urinary tract infection, site not specified"	"N39.0"	"75-84 years"	"75-84"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	21693	Unreliable
+	"Urinary tract infection, site not specified"	"N39.0"	"85+ years"	"85+"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	25	9683	258.18
+	"Urinary tract infection, site not specified"	"N39.0"	"85+ years"	"85+"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	6157	Unreliable
+	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	"45-54 years"	"45-54"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	13	42884	Unreliable
+	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	"45-54 years"	"45-54"	"Female"	"F"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	42884	Unreliable
+	"Intentional self-harm by handgun discharge"	"X72"	"55-64 years"	"55-64"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	11	48069	Unreliable
+	"Intentional self-harm by handgun discharge"	"X72"	"65-74 years"	"65-74"	"Male"	"M"	"Not Hispanic or Latino"	"2186-2"	"White"	"2106-3"	10	35845	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Gender: Female, Male"
+"Hispanic Origin: Hispanic or Latino, Not Hispanic or Latino"
+"ICD-10 Codes: All"
+"Place of Death: All"
+"Race: American Indian or Alaska Native, Asian or Pacific Islander, Black or African American, White"
+"States: Amador County, CA (06005)"
+"Ten-Year Age Groups: 15-24 years, 25-34 years, 35-44 years, 45-54 years, 55-64 years, 65-74 years, 75-84 years, 85+ years"
+"Weekday: All"
+"Year/Month: All"
+"Group By: Cause of death, Ten-Year Age Groups, Gender, Hispanic Origin, Race"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 27, 2018 3:16:30 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 27, 2018 3:16:30 PM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"6. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"7. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016"
+"postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for"
+"year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS"
+"on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The"
+"population figures for year 2011 are bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal"
+"series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population figures for"
+"years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from the revised intercensal county-level 2000 -"
+"2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for"
+"1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for the infant age groups are the number"
+"of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published"
+"reports, due to use of the population estimates which were available at the time of release."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."
