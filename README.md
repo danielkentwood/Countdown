@@ -28,6 +28,7 @@ With males, there appears to be a U-shaped function describing the relationship 
 
 Note that this is metric is not the same as the probability of developing Alzheimer's. In one sense, it isn't surprsing that the probability of dying from Alzheimer's increases with the level of education -- people who live long enough to get a PhD are perhaps more likely to live long enough to die from Alzheimer's. The surprising (and surprisingly consistent) trend is that you are more likely to die from Alzheimer's if you didn't start or finish high school. 
 
-There are many potential explanations for this relationship, but it isn't inconsistent with the idea that a trajectory of higher education tends to ward off Alzheimer's. Before accepting that hypothesis, however, one would want to rule out other predictors that are typically correlated with education, like income, geography, measures of health, etc.
+There are many potential explanations for this relationship, but it isn't necessarily inconsistent with the idea that a trajectory of higher education has a real relationship with the probability of dying from Alzheimer's. If I take the U-shape seriously, my first hypothesis would be that the level of education has a small protective effect against Alzheimer's in the early levels of education; perhaps the lack of a GED is correlated with certain lifestyles or habits that increase the chances of developing Alzheimer's. I'd be curious to take the next step and see if these people are dying from Alzheimer's at a younger age than people who have a higher level of education. Also, it suggests to me that a higher level of education is correlated with a longer life, which gives someone more time to develop and die from Alzheimer's.
+
 
 
