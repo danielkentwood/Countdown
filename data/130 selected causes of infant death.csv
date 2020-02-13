@@ -1,0 +1,158 @@
+﻿1,1 Certain infectious and parasitic diseases (A00-B99)
+2,Certain intestinal infectious diseases (A00-A08)
+3,Diarrhea and gastroenteritis of infectious origin (A09)
+4,Tuberculosis (A16-A19)
+5,"Tetanus (A33,A35)"
+6,Diphtheria (A36)
+7,Whooping cough (A37)
+8,Meningococcal infection (A39)
+9,3 Septicemia (A40-A41)
+10,Congenital syphilis (A50)
+11,Gonococcal infection (A54)
+12,1 Viral diseases (A80-B34)
+13,Acute poliomyelitis (A80)
+14,Varicella (chickenpox) (B01)
+15,Measles (B05)
+16,Human immunodeficiency virus (HIV) disease (B20-B24)
+17,Mumps (B26)
+18,"Other and unspecified viral diseases (A81-B00,B02-B04,B06-B19,B25,B27-B34)"
+19,Candidiasis (B37)
+20,Malaria (B50-B54)
+21,Pneumocystosis (B59)
+22,All other and unspecified infectious and parasitic diseases
+23,1 Neoplasms (C00-D48)
+24,1 Malignant neoplasms (C00-C97)
+25,Hodgkin's disease and non-Hodgkin's lymphomas (C81-C85)
+26,Leukemia (C91-C95)
+27,"Other and unspecified malignant neoplasms (C00-C80,C88,C90,C96-C97)"
+28,"In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior"
+29,1 Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+30,Anemias (D50-D64)
+31,Hemorrhagic conditions and other diseases of blood and blood-forming organs
+32,Certain disorders involving the immune mechanism (D80-D89)
+33,"1 Endocrine, nutritional and metabolic diseases (E00-E88)"
+34,"Short stature, not elsewhere classified (E34.3)"
+35,Nutritional deficiencies (E40-E64)
+36,Cystic fibrosis (E84)
+37,"3 Volume depletion, disorders of fluid, electrolyte and acid-base balance"
+38,"All other endocrine, nutritional and metabolic diseases"
+39,1 Diseases of the nervous system (G00-G98)
+40,"Meningitis (G00,G03)"
+41,"Infantile spinal muscular atrophy, type I (Werdnig-Hoffman) (G12.0)"
+42,Infantile cerebral palsy (G80)
+43,"Anoxic brain damage, not elsewhere classified (G93.1)"
+44,Other diseases of nervous system
+45,Diseases of the ear and mastoid process (H60-H93)
+46,1 Diseases of the circulatory system (I00-I99)
+47,Pulmonary heart disease and diseases of pulmonary circulation (I26-I28)
+48,"Pericarditis, endocarditis and myocarditis (I30,I33,I40)"
+49,Cardiomyopathy (I42)
+50,Cardiac arrest (I46)
+51,Cerebrovascular diseases (I60-I69)
+52,"All other diseases of circulatory system (I00-I25,I31,I34-I38,I44-I45,I47-I51,"
+53,1 Diseases of the respiratory system (J00-J98)
+54,Acute upper respiratory infections (J00-J06)
+55,1 Influenza and pneumonia (J10-J18)
+56,Influenza (J10-J11)
+57,Pneumonia (J12-J18)
+58,Acute bronchitis and acute bronchiolitis (J20-J21)
+59,"Bronchitis, chronic and unspecified (J40-J42)"
+60,Asthma (J45-J46)
+61,Pneumonitis due to solids and liquids (J69)
+62,Other and unspecified diseases of respiratory system
+63,1 Diseases of the digestive system (K00-K92)
+64,"Gastritis, duodenitis, and noninfective enteritis and colitis (K29,K50-K55)"
+65,Hernia of abdominal cavity and intestinal obstruction without hernia
+66,"All other and unspecified diseases of digestive system (K00-K28,K30-K38,K57-K92)"
+67,1 Diseases of the genitourinary system (N00-N95)
+68,"Renal failure and other disorders of kidney (N17-N19,N25,N27)"
+69,Other and unspecified diseases of genitourinary system
+71,Certain conditions originating in the perinatal period
+71,"Newborn affected by maternal factors and by complications of pregnancy, labor and delivery"
+72,Newborn affected by maternal hypertensive disorders
+73,Newborn affected by other maternal conditions which may be unrelated to present pregnancy
+74,1 Newborn affected by maternal complications of pregnancy (P01)
+75,Newborn affected by incompetent cervix (P01.0)
+76,Newborn affected by premature rupture of membranes (P01.1)
+77,Newborn affected by multiple pregnancy (P01.5)
+78,Newborn affected by other maternal complications of pregnancy
+79,"1 Newborn affected by complications of placenta, cord and membranes (P02)"
+80,Newborn affected by complications involving placenta (P02.0-P02.3)
+81,Newborn affected by complications involving cord (P02.4-P02.6)
+82,Newborn affected by chorioamnionitis (P02.7)
+83,Newborn affected by other and unspecified abnormalities of membranes
+84,Newborn affected by other complications of labor and delivery (P03)
+85,Newborn affected by noxious influences transmitted via placenta or breast milk
+86,1 Disorders related to length of gestation and fetal malnutrition (P05-P08)
+87,Slow fetal growth and fetal malnutrition (P05)
+88,"1 Disorders related to short gestation and low birthweight, not elsewhere classified"
+89,Extremely low birthweight or extreme immaturity
+90,Other low birthweight or preterm
+91,Disorders related to long gestation and high birthweight
+92,Birth trauma 
+93,Intrauterine hypoxia and birth asphyxia
+94,Intrauterine hypoxia
+95,Birth asphyxia
+96,Respiratory distress of newborn
+97,Other respiratory conditions originating in the perinatal period
+98,Congenital pneumonia
+99,Neonatal aspiration syndromes
+100,Interstitial emphysema and related conditions originating in the perinatal period
+101,Pulmonary hemorrhage originating in the perinatal period (P26)
+102,Chronic respiratory disease originating in the perinatal period (P27)
+103,Atelectasis (P28.0-P28.1)
+104,All other respiratory conditions originating in the perinatal period
+105,1 Infections specific to the perinatal period (P35-P39)
+106,Bacterial sepsis of newborn (P36)
+107,Omphalitis of newborn with or without mild hemorrhage (P38)
+108,"All other infections specific to the perinatal period (P35,P37,P39)"
+109,1 Hemorrhagic and hematological disorders of newborn (P50-P61)
+110,"Neonatal hemorrhage (P50-P52,P54)"
+111,Hemorrhagic disease of newborn (P53)
+112,Hemolytic disease of newborn due to isoimmunization and other perinatal jaundice
+113,Hematological disorders (P60-P61)
+114,Syndrome of infant of a diabetic mother and neonatal diabetes mellitus
+115,Necrotizing enterocolitis of newborn (P77)
+116,Hydrops fetalis not due to hemolytic disease (P83.2)
+117,"Other perinatal conditions (P29,P70.3-P70.9,P71-P76,P78-P81,P83.0-P83.1,"
+118,"1 Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)"
+119,Anencephaly and similar malformations (Q00)
+120,Congenital hydrocephalus (Q03)
+121,Spina bifida (Q05)
+122,"Other congenital malformations of nervous system (Q01-Q02,Q04,Q06-Q07)"
+123,Congenital malformations of heart (Q20-Q24)
+124,Other congenital malformations of circulatory system (Q25-Q28)
+125,Congenital malformations of respiratory system (Q30-Q34)
+126,Congenital malformations of digestive system (Q35-Q45)
+127,Congenital malformations of genitourinary system (Q50-Q64)
+128,"Congenital malformations and deformations of musculoskeletal system, limbs and integument"
+129,Down's syndrome (Q90)
+130,Edward's syndrome (Q91.0-Q91.3)
+131,Patau's syndrome (Q91.4-Q91.7)
+132,"Other congenital malformations and deformations (Q10-Q18,Q86-Q89)"
+133,"Other chromosomal abnormalities, not elsewhere classified (Q92-Q99)"
+134,"1 Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+135,Sudden infant death syndrome (R95)
+136,"Other symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+137,"All other diseases (Residual) (F01-F99,H00-H57,L00-M99)"
+138,"1 External causes of mortality (*U01,V01-Y84)"
+139,1 Accidents (unintentional injuries) (V01-X59)
+140,1 Transport accidents (V01-V99)
+141,"Motor vehicle accidents(V02-V04,V09.0,V09.2,V12-V14,V19.0-V19.2,"
+142,Other and unspecified transport accidents
+143,Falls (W00-W19)
+144,Accidental discharge of firearms (W32-W34)
+145,Accidental drowning and submersion (W65-W74)
+146,Accidental suffocation and strangulation in bed (W75)
+147,"Other accidental suffocation and strangulation (W76-W77,W81-W84)"
+148,Accidental inhalation and ingestion of food or other objects causing obstruction of respiratory tract
+149,"Accidents caused by exposure to smoke, fire and flames (X00-X09)"
+150,Accidental poisoning and exposure to noxious substances (X40-X49)
+151,"Other and unspecified accidents (W20-W31,W35-W64,W85-W99,X10-X39,X50-X59)"
+152,"1 Assault (homicide) (*U01,X85-Y09)"
+153,"Assault (homicide) by hanging, strangulation and suffocation (X91)"
+154,"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"
+155,"Neglect, abandonment and other maltreatment syndromes (Y06-Y07)"
+156,Assault (homicide) by other and unspecified means
+157,Complications of medical and surgical care (Y40-Y84)
+158,Other external causes
